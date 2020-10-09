@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+.smurfCard {
+  background-color: lightblue;
+  width: 20%;
+  margin: 0 auto;
+}
